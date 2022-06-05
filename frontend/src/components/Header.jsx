@@ -26,7 +26,7 @@ const Header = () => {
                 <li>
                     <button className="btn" onClick={onLogout}>
                         <FaSignOutAlt /> Logout
-                        </button>
+                    </button>
                 </li>               
                 ) : 
                 (
